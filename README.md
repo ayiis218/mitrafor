@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" align="center" width="250" height="auto" />
+  <h1>PRODITTI</h1>
+  
+  [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
+  </br>
+   <a href="https://ricette-dellapp-webapp.vercel.app/">View Demo</a>
+  <h2>About The Project</h2>
+  A web application that contains electronic products, food, accessories, fashion, furniture, and several other products. In this application, users can search for various products by entering keywords and also users can view product details.
+</div>
 
-In the project directory, you can run:
+## Built With
+This app was built with some technologies below:
+- [React JS](https://reactjs.com/)
+- [CSS](https://www.w3schools.com/css/)
+- [Ant Design](https://ant.design/)
 
-### `yarn start`
+## Installation
+- Clone my repositories
+```
+git clone https://github.com/ayiis218/mitrafor.git
+```
+- Go to
+```
+cd mitrafor
+```
+- Install Module
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+npm install
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshoots
 
-### `yarn test`
+<p align="center" display=flex>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<table>
 
-### `yarn build`
+<tr>
+<td><h4 style="margin-buttom:8px">About</h4></td>
+<td><h4 style="margin-buttom:8px">Contact</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/TY8JPgZk/about.png" alt="" width=650></td>
+<td><image src="https://i.postimg.cc/G3TjrqS8/contact.png" alt="" width=650/></td>
+</tr>
+<tr>
+<td><h4 style="margin-buttom:8px">Search</h4></td>
+<td><h4 style="margin-buttom:8px"></h4>Detail</td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/CLjHnd0w/searchmit.png" alt="" width=650></td>
+<td><image src="https://i.postimg.cc/Jz0N6xJz/detailmit.png" alt="" width=500/></td>
+</tr>
+<tr>
+<td colspan="2"><h4 style="margin-buttom:8px">Landing</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/SsBCJbtX/landingmit.png" alt="" width=650/></td>
+</table>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+email : ayiis.218@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+project Link: https://github.com/ayiis218/ricette-dellApp.git
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+Distributed under the [MIT](/LICENSE) License.
+<p align="right">(<a href="#top">back to top</a>)</p>
