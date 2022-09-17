@@ -7,7 +7,7 @@
   
   [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
   </br>
-   <a href="https://ricette-dellapp-webapp.vercel.app/">View Demo</a>
+   <a href="https://mitrafor-test.vercel.app/">View Demo</a>
   <h2>About The Project</h2>
   A web application that contains electronic products, food, accessories, fashion, furniture, and several other products. In this application, users can search for various products by entering keywords and also users can view product details.
 </div>
