@@ -1,38 +1,106 @@
-.App {
-  text-align: center;
+@import '~antd/dist/antd.css';
+
+.site-layout-content {
+   min-height: 71vh;
+   padding: 24px;
+   background: #fff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logo {
+   float: left;
+   width: 90px;
+   height: 70px;
+   margin-right: 50px;
+   margin-left: -30px;
+   background: rgba(255, 255, 255, 0.3);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.avatar {
+   margin-top: -10px;
+   margin-left: 8px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.lgo {
+   display: flex;
+   justify-content: center;
 }
 
-.App-link {
-  color: #61dafb;
+.title {
+   font-size: larger;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer {
+   text-align: center;
+}
+
+.menu {
+   margin-left: 100px;
+}
+
+.search {
+   display: flex !important;
+   justify-content: flex-end !important;
+   margin-top: -10px;
+   margin-bottom: 15px;
+   width: max-content;
+}
+
+.images {
+   border-radius: 10px !important;
+}
+
+.img {
+   margin: 10px !important;
+   background-color: black;
+   border-radius: 5px;
+}
+.profile {
+   border-radius: 200px;
+}
+
+.about {
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+
+.contact {
+   margin-top: 100px;
+}
+
+.action {
+   text-align: center !important;
+   font-size: larger;
+   border: 0.5px solid rgb(226, 226, 226);
+}
+
+.desc {
+   border: 0.5px solid rgb(226, 226, 226);
+   width: 400px;
+   font-size: larger;
+   text-align: center !important;
+}
+.bio {
+   display: flex;
+   justify-content: center;
+   width: 600px;
+   text-align: justify;
+   font-size: medium !important;
+   font-style: normal;
+   margin-top: 10px !important;
+   margin-bottom: 30px !important;
+}
+.button {
+   border: 1px solid aqua;
+   border-radius: 10px !important;
+   margin-left: 10px !;
+   background-color: aqua !important;
+   color: black;
+}
+
+.found {
+   margin-top: 13%;
+   text-align: center;
 }
