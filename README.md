@@ -66,7 +66,7 @@ npm install
 
 email : ayiis.218@gmail.com
 
-project Link: https://github.com/ayiis218/ricette-dellApp.git
+project Link: https://github.com/ayiis218/mitrafor.git
 
 ## License
 Distributed under the [MIT](/LICENSE) License.
