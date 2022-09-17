@@ -6,6 +6,11 @@ import data from '../components/product.json';
 
 const { Text } = Typography;
 
+const price = new Intl.NumberFormat('en-US', {
+   style: 'currency',
+   currency: 'USA',
+});
+
 class App extends Component {
    constructor(props) {
       super(props);
@@ -50,10 +55,13 @@ class App extends Component {
                            Stock: {this.state.product[0].stock}
                         </Text>
                         <Text className="title">
-                           Price: {this.state.product[0].price}
+                           Price: {price.format(this.state.product[0].price)}
                         </Text>
                         <Text className="title">
-                           Discount: {this.state.product[0].discountPercentage}
+                           Discount:{' '}
+                           {price.format(
+                              this.state.product[0].discountPercentage
+                           )}
                         </Text>
                         <Text className="title">
                            Rating: {this.state.product[0].rating}
